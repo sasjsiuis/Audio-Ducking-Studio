@@ -1,0 +1,6 @@
+{
+  "name": "Audio Ducking Studio",
+  "description": "An interactive Premiere Pro-style web workspace for automatic audio ducking of background music behind voice narration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
